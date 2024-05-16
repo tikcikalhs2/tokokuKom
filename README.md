@@ -1,2 +1,0 @@
-# tokokuKomputer
-Toko Komputer Lengkap
